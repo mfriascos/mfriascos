@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**mfriascos/mfriascos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**mfriascos/mfriascos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 # 💫About Me :
 I am an electronics and telecommunications engineer with experience as a semi-senior developer in Odoo and Python. My knowledge of Git, Docker, JavaScript, Postman, Django, Flask, and databases such as PostgreSQL and MySQL enable me to tackle a wide range of technical challenges. I specialize in developing custom applications and implementing enterprise resource planning (ERP) systems. If you're looking for a versatile developer who can adapt to complex technical projects, I could be a valuable asset to your team.
